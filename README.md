@@ -16,7 +16,7 @@ https://www.kaggle.com/dalexiou/certh-robot-car-place-recognition-dataset
 
 Each session is saved in <b>ROSBAG</b> file. 
 
-Calib.txt includes the neccessary calibration geometrical transfomations between the sensors.
+Calib.txt includes the neccessary calibrations between the sensors.
 
 
 <b>Citation:</b>

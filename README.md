@@ -7,7 +7,7 @@ CAV-PR (CERTH Autonomous Vehicle - Place Recognition) is a public dataset which 
 ![certh_dataset](https://user-images.githubusercontent.com/74976921/156171270-02e3c2e7-2d18-48c9-a65b-9f32c1e52655.png)
 
 
-Contents: Please find and download the datasets with their calibration files.
+Contents: Please find and download the dataset with its calibration file.
 
 
 https://www.kaggle.com/dalexiou/certh-robot-car-place-recognition-dataset 

@@ -1,6 +1,6 @@
-# CAV-PR: An Autonomous Vehicle-captured Dataset in CERTH infrastructures for Place Recognition
+# CAV-PR: An Autonomous Vehicle-captured Dataset in CERTH Premises for Place Recognition
 CAV-PR (CERTH Autonomous Vehicle - Place Recognition) is a public dataset which contains sychronized sequences of RGB image, 3D Lidar, IMU and GPS-RTK measurements. It composed of two sessions and each one of them contain revisits from both same and reverse viewpoints. This is the official repository of the paper:  
-3D LiDAR-Based Viewpoint Tolerant Place Recognition in Outdoor Scenarios (link coming soon).
+Loop closure detection with 3D LiDAR data forextreme viewpoint changes (link coming soon).
 
 ![sample_photo](https://user-images.githubusercontent.com/74976921/156362804-c8322ca5-36d2-49c9-b22b-c52dda700f10.png)
 

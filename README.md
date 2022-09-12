@@ -30,4 +30,4 @@ D. Alexiou, K. Tsiakas, I. Kostavelis, D. Giakoumis, A. Gasteratos and D. Tzovar
 <b>Contact:</b>
 
 For information/questions about the paper or the dataset, please contact
-[Dimitrios Alexiou](dalexiou@iti.gr)
+[Dimitrios Alexiou](mailto:dalexiou@iti.gr)

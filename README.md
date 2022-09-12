@@ -25,7 +25,7 @@ Calib.txt includes the neccessary calibrations between the sensors.
 
 <b>Citation:</b>
 
-Coming Soon
+D. Alexiou, K. Tsiakas, I. Kostavelis, D. Giakoumis, A. Gasteratos and D. Tzovaras, "Loop-Closure Detection with 3D LiDAR Data for Extreme Viewpoint Changes," 2022 26th International Conference on Methods and Models in Automation and Robotics (MMAR), 2022, pp. 29-34, doi: 10.1109/MMAR55195.2022.9874344.
 
 <b>Contact:</b>
 
